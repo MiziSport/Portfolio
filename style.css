@@ -522,11 +522,11 @@ footer p{
 
   .rotate-image { 
     /* Adjust the angle as needed */
-    width: 75%;
+    width: 100%;
     display:block;
     margin-left: auto;
     margin-right: auto;
 
     object-fit: contain;
-    transform: rotate(270deg);
+    
   }
